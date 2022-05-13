@@ -9,8 +9,6 @@ You don't have to worry with strings with less than two characters.
 */
 
 
-
-
 function removeChar(str){
     return str.slice(1, -1)
    
