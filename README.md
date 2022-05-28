@@ -1,10 +1,10 @@
 # Daily Code Wars
 
-This is where I work on daily problems on codewars to hone my JavaScript skills. I recently made it to 7kyu, so hopefully I can continue practicing and progressing!
+This is where I work on daily problems on codewars to hone my JavaScript skills. I recently made it to 6kyu, so hopefully I can continue practicing and progressing!
 
 **Link to Codewars Profile:** https://www.codewars.com/users/emilycdev
 
-![Screen Shot 2022-05-17 at 2 34 17 PM](https://user-images.githubusercontent.com/102037717/168885687-f8d09e16-8a80-4d34-a615-bbe1744639e1.png)
+![Screen Shot 2022-05-28 at 1 24 13 PM](https://user-images.githubusercontent.com/102037717/170836132-9dba89de-f53e-4311-a543-fd0c91a92f01.png)
 
 ## How It's Made:
 
