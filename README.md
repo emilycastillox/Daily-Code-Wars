@@ -4,7 +4,7 @@ This is where I work on daily problems on codewars to hone my JavaScript skills.
 
 **Link to Codewars Profile:** https://www.codewars.com/users/emilycdev
 
-![Screen Shot 2022-05-28 at 1 24 13 PM](https://user-images.githubusercontent.com/102037717/170836132-9dba89de-f53e-4311-a543-fd0c91a92f01.png)
+![Screen Shot 2022-06-20 at 10 51 33 AM](https://user-images.githubusercontent.com/102037717/174628642-56f0787e-2c5c-47ea-aae0-648266c05345.png)
 
 ## How It's Made:
 
