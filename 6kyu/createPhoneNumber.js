@@ -17,15 +17,23 @@ return new string with join
  */
 
 function createPhoneNumber(numbers){
+  console.log(numbers)
     let newArr = []
     for(let i = 0; i < numbers.length; i++){
-      let str = numbers[i].toString()
-      newArr.push(str)
+      if(i === 0){
+        // numbers[0] === 5 ......'(5'
+        newArr.push('(' + numbers[i])
+      }else if(i === 2){
+        newArr.push(numbers[i] + ') ')
+      }else if(i === 6){
+        newArr.push('-' + numbers[i])
+      }else{
+        newArr.push(numbers[i])
+      }
     }
-    newArr.splice(0, 0,'(')
-    newArr.splice(4, 0, ')')
-    newArr.splice(5, 0, ' ')
-    newArr.splice(9, 0, '-')
     let result = newArr.join('')
+    console.log(result)
     return result
   }
+
+  createPhoneNumber([5,6,7,8,9,1,2,4,3,5])
