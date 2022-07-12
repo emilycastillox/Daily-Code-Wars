@@ -17,8 +17,6 @@ don't. E.g
 
 */
 
-
-
 function isAnagram(stringA, stringB) {
     // Code goes here
     arrA = stringA.toLowerCase().split('').sort()

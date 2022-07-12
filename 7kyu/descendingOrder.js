@@ -24,3 +24,13 @@ function descendingOrder(n){
       let result = arr.join('')
     return parseInt(result)
     }
+
+
+
+
+
+
+
+
+
+  
