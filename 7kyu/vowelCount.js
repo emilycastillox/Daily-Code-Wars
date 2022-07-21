@@ -1,3 +1,18 @@
+/* CHALLENGE
+Given a string of text, return the number of vowels found within the text
+e.g vowelsCounter('anehizxcv') // will return 3
+
+
+P; a string of text
+R: returning total number of voles so a number 
+E: emily -> 3 including y - not including y is 2
+P: 
+- have to check what counts as a vowel
+- have to count how many vowels there are
+- have to return the total count of vowels
+*/
+
+
 const vowels = ["a", "e", "i", "o", "u"]
 
 
@@ -16,3 +31,4 @@ function vowelsCounter(text) {
     // Return number of vowels
     return counter
 }
+

@@ -14,8 +14,8 @@ Note: for this kata y isn't considered a vowel.
 */
 
 function disemvowel(str) {
-    const vowels = ['a','e','i','o','u','A','E','I','O','U']
-    return str.split('').filter(el => !vowels.includes(el)).join('')
+    const vowels = ['a','e','i','o','u']
+    return str.toLowerCase().split('').filter(el => !vowels.includes(el)).join('')
     
     }
   disemvowel("This website is for losers LOL!")
