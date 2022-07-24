@@ -32,3 +32,14 @@ function sc(apple){
     }
     return 
   }
+
+  // travora solution
+
+  function sc(apple){
+    let pesticides = []
+    for (arr of apple) {
+     arr.includes('B') ? pesticides.push(apple.indexOf(arr), arr.indexOf('B')) : null
+    }
+    
+    return pesticides
+  }
